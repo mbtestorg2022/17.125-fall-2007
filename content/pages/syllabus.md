@@ -42,11 +42,48 @@ Each student will be assigned to introduce the readings and pose questions for c
 Grading
 -------
 
-| REQUIREMENTS | PERCENTAGES |
-| --- | --- |
-| Essays (30% each) | 60% |
-| Reaction papers | 10% |
-| Class participation | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+REQUIREMENTS
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essays (30% each)
+{{< tdclose >}}
+{{< tdopen >}}
+60%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Reaction papers
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Required Text
 -------------
@@ -58,14 +95,141 @@ Frieden, Jeffry A. _Global Capitalism: Its Fall and Rise in the Twentieth Centur
 {{< anchor "Calendar" >}}{{< /anchor >}}Calendar
 ------------------------------------------------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Course overview | &nbsp; |
-| 2-4 | Foundations | &nbsp; |
-| 5-9 | Globalization and domestic politics |  {{< br >}}{{< br >}} First essay topic handed out in Ses #8 {{< br >}}{{< br >}} First essay due in Ses #9 {{< br >}}{{< br >}}  |
-| 10-13 | The politics of foreign direct investment | &nbsp; |
-| 14-16 | Exchange rates and currency crises | &nbsp; |
-| 17-19 | International governance | &nbsp; |
-| 20-23 | Finance and the developing world |  {{< br >}}{{< br >}} Second essay topic handed out in Ses #20 {{< br >}}{{< br >}} Second essay due in Ses #22 {{< br >}}{{< br >}}  |
-| 24 | International financial crime | &nbsp; |
-| 25 | Conclusion |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Course overview
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2-4
+{{< tdclose >}}
+{{< tdopen >}}
+Foundations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5-9
+{{< tdclose >}}
+{{< tdopen >}}
+Globalization and domestic politics
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+First essay topic handed out in Ses #8
+
+First essay due in Ses #9
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10-13
+{{< tdclose >}}
+{{< tdopen >}}
+The politics of foreign direct investment
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14-16
+{{< tdclose >}}
+{{< tdopen >}}
+Exchange rates and currency crises
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17-19
+{{< tdclose >}}
+{{< tdopen >}}
+International governance
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20-23
+{{< tdclose >}}
+{{< tdopen >}}
+Finance and the developing world
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Second essay topic handed out in Ses #20
+
+Second essay due in Ses #22
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+International financial crime
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Conclusion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
