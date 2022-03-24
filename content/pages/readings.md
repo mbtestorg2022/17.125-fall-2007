@@ -260,7 +260,7 @@ Haggard, Stephan, and Sylvia Maxfield. "The Political Economy of Financial Inter
 
 International Monetary Fund. "[What is the IMF?](http://www.imf.org/external/pubind.htm)" September 2006.
 
-Hausmann, Ricardo, and Eduardo Fernandez-Arias. "What's Wrong With International Financial Markets?" Inter-American Development Bank Working Paper 429. Presented at the Tenth International Forum on Latin American Perspectives, Paris, France, November 25-26, 1999. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://pdfs.semanticscholar.org/d2b8/b4427d0a4ce955029c8a1001e9bb1783c507.pdf))
+Hausmann, Ricardo, and Eduardo Fernandez-Arias. "What's Wrong With International Financial Markets?" Inter-American Development Bank Working Paper 429. Presented at the Tenth International Forum on Latin American Perspectives, Paris, France, November 25-26, 1999. ([PDF](https://pdfs.semanticscholar.org/d2b8/b4427d0a4ce955029c8a1001e9bb1783c507.pdf))
 
 
 {{< tdclose >}}
@@ -302,9 +302,9 @@ International financial crime
 {{< tdopen >}}
 
 
-Financial Action Task Force. "Trade Based Money Laundering." June 2006. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.fatf-gafi.org/publications/methodsandtrends/documents/trade-basedmoneylaundering.html))
+Financial Action Task Force. "Trade Based Money Laundering." June 2006. ([PDF](https://www.fatf-gafi.org/publications/methodsandtrends/documents/trade-basedmoneylaundering.html))
 
-———. Report on Money Laundering Typologies. February 1997. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.fatf-gafi.org/dataoecd/31/29/34043795.pdf))
+———. Report on Money Laundering Typologies. February 1997. ([PDF](http://www.fatf-gafi.org/dataoecd/31/29/34043795.pdf))
 
 Wechsler, William F. "Follow the Money." _Foreign Affairs_ (July/August 2001).
 
